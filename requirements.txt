@@ -1,0 +1,6 @@
+streamlit
+groq
+python-dotenv
+fpdf
+requests
+beautifulsoup4
